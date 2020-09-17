@@ -17,3 +17,10 @@
 
 .idea
 *.DS_Store
+
+*.vendor
+
+vendor
+
+*.lock
+*.toml
