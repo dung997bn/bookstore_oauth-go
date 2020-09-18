@@ -23,4 +23,4 @@
 vendor
 
 *.lock
-*.toml
+.toml
